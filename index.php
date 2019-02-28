@@ -138,4 +138,3 @@ foreach($posts as $post){
     echo $post->author.'<br>';
 }
 
-echo  '<form></form>';
